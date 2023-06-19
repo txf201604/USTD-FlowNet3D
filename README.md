@@ -19,3 +19,22 @@ cd FPT_utils\cuda_ops
 python setup.py install
 cd ../../
 ```
+
+# Data preparation
+Please follow the instructions given in [HPLFlowNet](https://github.com/laoreja/HPLFlowNet) to construct the FlyingThings3D and KITTI datasets. Finally the directory structure should like this:
+```
+USTD-FlowNet3D
+├── data
+│   └── HPLFlowNet
+│       ├── FlyingThings3D_subset_processed_35m
+│       └── KITTI_processed_occ_final
+├── datasets
+├── images
+├── FPT_utils
+├── models
+├── README.md
+├── train.py
+├── train_ddp.py
+├── train_multi_process_GPUs.py
+└── val_test.py
+```
