@@ -1,0 +1,10 @@
+setup.py
+cuda_sparse_ops.egg-info/PKG-INFO
+cuda_sparse_ops.egg-info/SOURCES.txt
+cuda_sparse_ops.egg-info/dependency_links.txt
+cuda_sparse_ops.egg-info/top_level.txt
+src/cuda_ops_api.cpp
+src/dot_product/dot_product.cpp
+src/dot_product/dot_product_kernel.cu
+src/scalar_attention/scalar_attention.cpp
+src/scalar_attention/scalar_attention_kernel.cu
