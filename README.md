@@ -13,3 +13,8 @@ Our models is trained and tested under:
 - numpy
 
 Compile the furthest point sampling, grouping and gathering operation for PyTorch. We use the operation from this [repo](https://github.com/sshaoshuai/Pointnet2.PyTorch).
+'''
+cd FPT_utils\cuda_ops
+python setup.py install
+cd ../../
+'''
