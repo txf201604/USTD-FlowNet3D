@@ -56,3 +56,8 @@ python val_test.py --dataset HPLFlowNet_FT3D --nb_points 8192 --path2ckpt checkp
 ```
 python val_test.py --dataset HPLFlowNet_kitti  --nb_points 8192 --path2ckpt checkpoints/model-100.tar
 ```
+
+# Acknowledgments
+[FLOT](https://github.com/valeoai/FLOT)
+[HPLFlowNet](https://github.com/laoreja/HPLFlowNet)
+[FPT](https://github.com/POSTECH-CVLab/FastPointTransformer)
