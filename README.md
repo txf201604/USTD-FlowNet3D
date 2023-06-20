@@ -1,7 +1,7 @@
 # USTD-FlowNet3D: Learning Point Features with Uniform Spatial and Temporal Distribution for Scene Flow Estimation
 This is an open source project about point cloud scene flow estimation algorithm. This repository contains the Pytorch implementation for it.
 
-<img src="./images/Pieline.jpg" width=100%>
+<img src="./images/Pipeline.jpg" width=100%>
  
 # Prerequisities
 Our models is trained and tested under:
