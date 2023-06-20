@@ -58,8 +58,7 @@ python val_test.py --dataset HPLFlowNet_kitti  --nb_points 8192 --path2ckpt chec
 ```
 
 # Acknowledgments
-[FLOT](https://github.com/valeoai/FLOT)
-
-[HPLFlowNet](https://github.com/laoreja/HPLFlowNet)
-
-[FPT](https://github.com/POSTECH-CVLab/FastPointTransformer)
+-[FLOT](https://github.com/valeoai/FLOT)
+-[HPLFlowNet](https://github.com/laoreja/HPLFlowNet)
+-[SCTN](https://github.com/hi-zhengcheng/sctn)
+-[FPT](https://github.com/POSTECH-CVLab/FastPointTransformer)
